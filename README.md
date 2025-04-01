@@ -1,16 +1,17 @@
-## Hi there 👋
+About me
 
-<!--
-**pypar009/pypar009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Param
+I’m currently learning Python and Web Development.
+I’m doing internships and freelancing.
+I aim to be a top tier developer
 
-Here are some ideas to get you started:
+Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+Web development
+Github
+
+Contact me
+
+www.linkedin.com/in/paramjot-singh-16411135a
+paramisboring@gmail.com
